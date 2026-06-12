@@ -1,6 +1,6 @@
 # 🌾 Krishi Mitras
 
-Krishi Mitras is a smart agriculture assistance platform built using **React + Vite** that helps farmers access real-time agricultural information and resources from a single dashboard.
+Krishi Mitras is a smart agriculture assistance platform built using **React + Vite** that helps farmers access real-time agricultural information and resources from a single dashboard
 
 ## 🚀 Features
 
