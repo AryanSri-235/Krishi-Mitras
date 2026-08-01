@@ -16,7 +16,7 @@ const ProfilePage = () => {
       <div className="flex items-center space-x-3 border-b border-green-300 pb-4">
         <FaUser className="text-green-700 text-3xl" />
         <h1 className="text-4xl font-extrabold text-green-800 tracking-tight">
-          My Farmer Profile
+          My Profile
         </h1>
       </div>
       <div className="bg-yellow-50 p-6 rounded-xl shadow-md flex items-center space-x-6 border border-green-200">
